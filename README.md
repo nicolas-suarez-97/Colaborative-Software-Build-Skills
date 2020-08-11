@@ -9,3 +9,9 @@ Create branch "feature1"
 Add change
 Create pull request 
 
+
+
+
+Step 4: 
+Create branch "feature2"
+Add change, Create commit "v1.2.0", Create pull request
