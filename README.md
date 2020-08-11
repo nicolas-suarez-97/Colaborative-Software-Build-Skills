@@ -11,4 +11,4 @@ Create pull request
 
 Step 3: 
 Create branch "hotfix"
-Add changes, Create pull request
+Add changes, Create commit "v1.1.0" Create pull request
